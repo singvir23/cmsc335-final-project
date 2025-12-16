@@ -1,6 +1,6 @@
 # DVD AI Chat Application
 
-**Submitted by:** Daven Chang (dchangiz)
+**Submitted by:** Viraaj Singh (vsingh24)
 
 **Group Members:** Daven Chang (dchangiz), Viraaj Singh (vsingh24), Daniel Cho (dcho0618), Arpan Agarwal (aagarw24)
  
